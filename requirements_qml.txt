@@ -1,0 +1,9 @@
+qiskit
+qiskit-aer 
+qiskit-ibm-runtime 
+matplotlib 
+pylatexenc
+pandas
+scikit-learn
+
+pennylane
