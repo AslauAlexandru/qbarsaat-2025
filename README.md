@@ -9,7 +9,7 @@ Welcome to QWorld's workshops for QBarsaat QPakistan 2025:
 
 - **Quantum Sensing**
 
-Repository forked by [NoahNzeki](https://github.com/NoahNzeki), this is the forked link: NoahNzeki / qbarsaat-2025, https://github.com/NoahNzeki/qbarsaat-2025
+Repository forked by [NoahNzeki](https://github.com/NoahNzeki), this is the forked link: NoahNzeki / qbarsaat-2025 - https://github.com/NoahNzeki/qbarsaat-2025
 
 ## License
 
